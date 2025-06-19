@@ -1,2 +1,2 @@
-# k8s-centos9-setup
-Kubernetes installation and setup script 
+# k8s-cluster-setup
+Kubernetes cluster setup script.
